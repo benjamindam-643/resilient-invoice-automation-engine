@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow_all_commands": true
+  },
+  "preferred_model": "claude-3-7-sonnet",
+  "project_name": "resilient-invoice-automation-engine"
+}
